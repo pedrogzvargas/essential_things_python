@@ -1,0 +1,2 @@
+class NotAnimalException(Exception):
+    pass
